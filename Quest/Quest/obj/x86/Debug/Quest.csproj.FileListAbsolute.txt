@@ -1,0 +1,117 @@
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\village.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Quest.exe
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Quest.pdb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\obj\x86\Debug\Quest.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\obj\x86\Debug\Quest.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\obj\x86\Debug\Quest.exe
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\obj\x86\Debug\Quest.pdb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\questtitle.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\TownTheme.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\menu.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\swordicon.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\font.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\backfill.xnb
+G:\Quest\Quest\bin\Windows\x86\Debug\Content\backfill.xnb
+G:\Quest\Quest\bin\Windows\x86\Debug\Content\font.xnb
+G:\Quest\Quest\bin\Windows\x86\Debug\Content\menu.xnb
+G:\Quest\Quest\bin\Windows\x86\Debug\Content\questtitle.xnb
+G:\Quest\Quest\bin\Windows\x86\Debug\Content\swordicon.xnb
+G:\Quest\Quest\bin\Windows\x86\Debug\Content\TownTheme.xnb
+G:\Quest\Quest\bin\Windows\x86\Debug\Content\village.xnb
+G:\Quest\Quest\bin\Windows\x86\Debug\Quest.exe
+G:\Quest\Quest\bin\Windows\x86\Debug\Quest.pdb
+G:\Quest\Quest\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.dll
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+G:\Quest\Quest\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.xml
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+G:\Quest\Quest\obj\x86\Debug\Quest.csprojResolveAssemblyReference.cache
+G:\Quest\Quest\obj\x86\Debug\Quest.csproj.CoreCompileInputs.cache
+G:\Quest\Quest\obj\x86\Debug\Quest.exe
+G:\Quest\Quest\obj\x86\Debug\Quest.pdb
+G:\Quest\Quest\bin\Windows\x86\Debug\Content\unknownroom.xnb
+G:\Quest\Quest\bin\Windows\x86\Debug\Content\tile.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\backfill.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\font.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\menu.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\questtitle.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\swordicon.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\tile.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\TownTheme.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\unknownroom.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\village.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\encounter.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\gate.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\stair.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\trap.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Quest.exe
+E:\Quest\Quest\bin\Windows\x86\Debug\Quest.pdb
+E:\Quest\Quest\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.dll
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Quest\Quest\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.xml
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Quest\Quest\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Quest\Quest\obj\x86\Debug\Quest.csprojResolveAssemblyReference.cache
+E:\Quest\Quest\obj\x86\Debug\Quest.csproj.CoreCompileInputs.cache
+E:\Quest\Quest\obj\x86\Debug\Quest.exe
+E:\Quest\Quest\obj\x86\Debug\Quest.pdb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\playertile.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\encounter.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\gate.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\playertile.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\stair.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\tile.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\trap.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\unknownroom.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\treasure.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\smallFont.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\AzogsMarch2.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\smallFont.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\treasure.xnb
+C:\Users\Jeff\Desktop\C# Files\Quest\Quest\bin\Windows\x86\Debug\Content\level1.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\AzogsMarch2.xnb
+E:\Quest\Quest\bin\Windows\x86\Debug\Content\level1.xnb

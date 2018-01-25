@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Quest/Quest/Content/village.png</File>
+    <File>E:/Quest/Quest/Content/questtitle.png</File>
+    <File>E:/Quest/Quest/Content/TownTheme.wav</File>
+    <File>E:/Quest/Quest/Content/menu.png</File>
+    <File>E:/Quest/Quest/Content/swordicon.png</File>
+    <File>E:/Quest/Quest/Content/font.spritefont</File>
+    <File>E:/Quest/Quest/Content/backfill.png</File>
+    <File>E:/Quest/Quest/Content/unknownroom.png</File>
+    <File>E:/Quest/Quest/Content/tile.png</File>
+    <File>E:/Quest/Quest/Content/encounter.png</File>
+    <File>E:/Quest/Quest/Content/gate.png</File>
+    <File>E:/Quest/Quest/Content/stair.png</File>
+    <File>E:/Quest/Quest/Content/trap.png</File>
+    <File>E:/Quest/Quest/Content/playertile.png</File>
+    <File>E:/Quest/Quest/Content/treasure.png</File>
+    <File>E:/Quest/Quest/Content/smallFont.spritefont</File>
+    <File>E:/Quest/Quest/Content/AzogsMarch2.wav</File>
+    <File>E:/Quest/Quest/Content/level1.png</File>
+  </SourceFiles>
+</SourceFileCollection>
